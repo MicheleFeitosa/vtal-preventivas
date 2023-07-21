@@ -1,5 +1,6 @@
 # vtal-preventivas
-Desafio proposto pela empresa V.Tal durante o Talent Fest SAP009 &lt;Laboratória>
+Desafio proposto pela empresa V.Tal durante o Talent Fest SAP009 &lt;Laboratória> 
+Obs: o projeto foi desenvolvido durante 15h de coding time.
 
 # Índice
 
